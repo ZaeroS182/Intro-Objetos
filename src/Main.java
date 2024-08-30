@@ -11,6 +11,8 @@ public class Main {
 		e.setDocumento ("109464523");
 		e.setEdad (19);
 		
+		System.out.println("santiago estuvo aqui <3");
+		
 		
 		// Instanciar es lo que esta aqui abajo
 		Estudiante e2 = new Estudiante("claudia" , "londoño", "coco@gmail.com", "1231234", 20);
